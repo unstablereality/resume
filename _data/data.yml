@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Daniel Soskel
-    tagline: Software Engineer
+    name: Dannie Soskel
+    tagline: Data Engineer
     avatar: daniel-soskel.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: daniel@danielsoskel.dev
+    email: dannie@danielsoskel.dev
     phone: (901) 485-7469
     linkedin: daniel-soskel
     github: unstablereality
-    website: danielsoskel.dev
+    website: danniesoskel.dev
 
     interests:
       - item: Gaming

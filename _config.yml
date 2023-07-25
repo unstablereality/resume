@@ -7,7 +7,7 @@ baseurl: '/' #change it according to your repository name
 description: Mid-level software engineer with 8 years of experience in process automation and improvement, workflow efficiency, and data processing. Recognized for exceeding goals by automating and standardizing existing tooling. Consistently striving to identify ways in which we can work smarter, not harder.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: lavender # blue turquoise green berry orange ceramic lavender
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile search bar
 
 # Sass/SCSS
 sass:

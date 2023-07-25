@@ -79,7 +79,7 @@ experiences:
           - Migrated data for each partner from the old ColdFusion/MS SQL app ensuring maximum data retention
           - TECHNICAL ENVIRONMENT: Linux, Apache, PostgreSQL, Ruby on Rails
     - role: Contractor - Web Developer
-      clsas: shareone
+      class: shareone
       time: May 2012 - September 2012
       company: Share One Inc., Memphis, TN
       details: |

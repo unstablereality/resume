@@ -47,7 +47,7 @@ experiences:
       company: Stratasan, A Syntellis Company
       details: |
           - Maintained pipelines for processing 835 remit and 837 submit medical claims data for use in the Stratasan data visualization application
-          - Developed a data export pipeline for providing raw data output from the above process to clients
+          - Developed a data export pipeline for providing raw data output from the above process for direct download by clients
           - Performed monthly data processing tasks
           - TECHNICAL ENVIRONMENT: Python, Snowflake, Redshift, DBT, Luigi
     - role: Software Engineer

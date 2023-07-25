@@ -30,9 +30,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Mid-level software engineer with 8 years of experience in process automation and improvement and data processing. Recognized for
-      exceeding goals by automating and standardizing existing tooling. At SmartBear, used Ansible and Python best
-      practices to exceed the Q4 release goal by 40%.
+      Mid-level software engineer with 8 years of experience in process automation and improvement, workflow efficiency, and data processing. Recognized for
+      exceeding goals by automating and standardizing existing tooling. Consistently striving to identify ways in which we can work smarter, not harder.
 
 education:
     - degree: BS in Engineering Technology
@@ -48,8 +47,8 @@ experiences:
       company: Stratasan, A Syntellis Company
       details: |
           - Maintained pipelines for processing 835 remit and 837 submit medical claims data for use in the Stratasan data visualization application
-          - Developed an additional data export pipeline for providing raw data output from the above process to clients
-          - Oversaw monthly data processing tasks
+          - Developed a data export pipeline for providing raw data output from the above process to clients
+          - Performed monthly data processing tasks
           - TECHNICAL ENVIRONMENT: Python, Snowflake, Redshift, DBT, Luigi
     - role: Software Engineer
       class: cbt

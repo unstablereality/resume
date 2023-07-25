@@ -9,10 +9,10 @@ sidebar:
     # Profile information
     name: Dannie Soskel
     tagline: Data Engineer
-    avatar: daniel-soskel.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: dannie-soskel.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dannie@danielsoskel.dev
+    email: dannie@danniesoskel.dev
     phone: (901) 485-7469
     linkedin: dannie-soskel
     github: unstablereality
@@ -21,7 +21,7 @@ sidebar:
     interests:
       - item: Gaming
 
-      - item: Homebrewing
+      - item: Volunteering
 
       - item: Pets
 
@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Mid-level software engineer with 6 years of experience in process automation and improvement. Recognized for
+      Mid-level software engineer with 8 years of experience in process automation and improvement and data processing. Recognized for
       exceeding goals by automating and standardizing existing tooling. At SmartBear, used Ansible and Python best
       practices to exceed the Q4 release goal by 40%.
 
@@ -42,9 +42,18 @@ education:
         3.83 GPA | Summa Cum Laude
 
 experiences:
+    - role: Data Engineer
+      class: stratasan
+      time: August 2021 - Current
+      company: Stratasan, A Syntellis Company
+      details: |
+          - Maintained pipelines for processing 835 remit and 837 submit medical claims data for use in the Stratasan data visualization application
+          - Developed an additional data export pipeline for providing raw data output from the above process to clients
+          - Oversaw monthly data processing tasks
+          - TECHNICAL ENVIRONMENT: Python, Snowflake, Redshift, DBT, Luigi
     - role: Software Engineer
       class: cbt
-      time: November 2018 - Present
+      time: November 2018 - August 2021
       company: SmartBear / CrossBrowserTesting, Memphis, TN
       details: |
           - Developed automated tooling for remote management of physical iOS devices

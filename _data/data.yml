@@ -43,8 +43,8 @@ education:
 experiences:
     - role: Data Engineer
       class: stratasan
-      time: August 2021 - Current
-      company: Stratasan, A Syntellis Company
+      time: August 2021 - September 2023
+      company: Strata Decision Technology
       details: |
           - Maintained pipelines for processing 835 remit and 837 submit medical claims data for use in the Stratasan data visualization application
           - Developed a data export pipeline for providing raw data output from the above process for direct download by clients

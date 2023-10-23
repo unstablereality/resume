@@ -30,8 +30,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Mid-level software engineer with 8 years of experience in process automation and improvement, workflow efficiency, and data processing. Recognized for
-      exceeding goals by automating and standardizing existing tooling. Consistently striving to identify ways in which we can work smarter, not harder.
+      Analytical and tech-savvy professional with solid experience in data/software engineering, project management, and business applications development; optimizing complex data-driven systems. Proven history of success in managing the full life cycle of software development processes, which contained requirements data management, engineering, design, coding, testing, debugging, and maintenance. Skilled in creating data pipelines, managing data storage, transformation/cleaning, modeling, and implementation. Adept at directing technical projects from start to end, preparing and executing strategic plans and control structures for projects, and ensuring successful completion within time and budget. Expertise includes:
+
+      Software Development Life Cycle (SDLC) / Engineering System Integration / ETL Processes Data Processing & Modeling / Software Design / Software & Web Maintenance / Relationship Building Quality Assurance & Testing / Troubleshooting & Issue Resolution / Continuous Process Improvement
 
 education:
     - degree: BS in Engineering Technology
@@ -58,46 +59,45 @@ experiences:
       time: November 2018 - August 2021
       company: SmartBear / CrossBrowserTesting, Memphis, TN
       details: |
-          - Developed automated tooling for remote management of physical iOS devices
-          - Rewrote all iOS device lifecycle scripts (Python) to improve system reliability and maintainability, resulting in exceeding 2019 Q4 device release goals by 40%
-          - Created Ansible playbooks for standardizing new installations of macOS systems
-          - Deployed Cisco switches in VLAN configurations to isolate Airplay multicast DNS traffic
-          - Authored documentation for both internal team use and to hand off tasks to other teams
-          - TECHNICAL ENVIRONMENT: MacOS, Linux, MySQL, iOS, Ansible, Docker, Python, Golang
+          Crafted automated Python tools for remote management of physical iOS devices. Designed, coded, tested, and maintained software applications in accordance with project requirements and coding standards. Collaborated with team to architect software solutions, considering performance, scalability, and maintainability. Ensured quality of software through thorough testing, code reviews, and debugging.
+          Elevated system reliability and maintainability by completely overhauling iOS device lifecycle scripts in Python, surpassing 2019 Q4 device release goals by an impressive 40%.
+          - Demonstrated competence in macOS, Linux, MySQL, iOS, Ansible, Docker, Python, and Golang.
+          - Optimized provisioning process for MacMini systems by creating Ansible playbooks that automated configuration tasks.
+          - Slashed provisioning time by 75%, leading to significant resource savings during new device releases.
+          - Revolutionized device configuration procedures by researching and implementing an automation solution in collaboration with a fellow engineer as well as developed Python scripts to configure multiple devices, replacing the errorprone manual configuration of 28 devices per device family.
     - role: Application Development Specialist
       class: ip
       time: February 2015 - November 2018
       company: International Paper, Memphis, TN
       details: |
-          - Developed internal PHP and Bash tooling to automate configuration of testing servers with live data copies
-          - Worked with contractors to migrate all plants from distributed servers to a centralized, virtual environment
-          - Adapted a C# .NET application to interface with a terminal emulator for connecting to production servers
-          - TECHNICAL ENVIRONMENT: Bash, PHP, MySQL, C# .NET, MS SQL
+          Engineered internal PHP and Bash tools to automate server configurations for testing, incorporating live data copies. Collaborated with contractors to oversee the migration of plants from distributed servers to a centralized, virtual environment.
+          - Utilized robust technical skills in Bash, MySQL, C# .NET, and MS SQL.
+          - Automated test server provisioning with a PHP-based web app, reducing setup time to a few clicks and providing email notifications for users upon completion, significantly boosting efficiency
+          - Successfully modernized multi-server tool's configuration, transitioning it from old software to a new terminal emulator by rewriting C# application, enhancing user interface for usability, and creating tailored versions with feature restrictions.
+          - Led the successful migration of 131 plant servers from a distributed model to a centralized infrastructure in Memphis as part of a 2 ½ year project.
     - role: Web Developer
       class: highervis
       time: November 2013 - February 2015
       company: Higher Visibility, Memphis, TN
       details: |
-          - Customized and deployed localized & translated forks of a Ruby on Rails lead generation app for international partners
-          - Migrated data for each partner from the old ColdFusion/MS SQL app ensuring maximum data retention
-          - TECHNICAL ENVIRONMENT: Linux, Apache, PostgreSQL, Ruby on Rails
+          Customized and deployed localized versions of a Ruby on Rails lead generation application for international partners.
+          - Masterminded seamless data migration process for each partner, transitioning from the previous ColdFusion/MS SQL application while ensuring maximum data retention.
+          - Employed multiple notable technologies, such as Ruby on Rails and PostgreSQL.
     - role: Contractor - Web Developer
       class: shareone
       time: May 2012 - September 2012
       company: Share One Inc., Memphis, TN
       details: |
-          - Developed enhancements for a Ruby on Rails based Internet Banking application
-          - TECHNICAL ENVIRONMENT: Linux, Ruby on Rails
+          Designed and maintained responsive and user-friendly websites using modern web technologies and best practices. Implemented user interfaces with HTML, CSS, and JavaScript, ensuring cross-browser compatibility and optimal performance. Buit server-side components and integrated database systems to support website functionality.
+          - Spearheaded development of enhancements for a Ruby on Rails-based Internet Banking application.
+          - Demonstrated competence in Ruby on Rails and PostgreSQL.
     - role: Student Chair
       class: ieee
       time: January 2010 - May 2012
       company: University of Memphis Student Branch of IEEE, Memphis, TN
       details: |
-          - Managed diverse students in all levels of a project team
-          - Coordinated events, tours, instructional seminars, and guest speakers
-          - Budgeted and secured funding for travel to yearly SoutheastCon Student Hardware Competition (approx $10k annually)
-          - Assisted in creation and implementation of an electronics parts store for students
-          - Documented organization operations to serve as a knowledge base for future Student Chairs
+          - Successfully managed budgets and secured funding for yearly SoutheastCon Student Hardware Competition, averaging approximately $10,000 annually.
+          - Initiated and maintained an electronics parts store, generating an annual income of approximately $500, providing essential components for students' course projects.
 
 projects:
     title: Community Involvement
@@ -106,18 +106,16 @@ projects:
         link: "http://memphistechnology.org"
         tagline: "http://memphistechnology.org"
         details: |
-            - Organizer and host of weekly in-person and virtual lunch meetups
-            - Organizer, host, and fundraiser for annual Holiday Party
-            - Moderator of community Slack team
+            - Actively organized and hosted weekly in-person and virtual lunch meetups, fostering community connections and professional networking.
+            - Successfully orchestrated an annual Holiday Party, including the management of sponsor campaigns, to create memorable and engaging experiences for participants.
+            - Demonstrated leadership as a moderator for a community Slack team, ensuring a positive and inclusive environment for productive discussions.
 
       - title: GiveCamp Memphis
         link: "http://givecampmemphis.org"
         tagline: "http://givecampmemphis.org"
         details: |
-            - Participated 2014 - Current
-            - Annual Volunteer event providing development solutions to nonprofit charities
-            - Developed web applications for multiple charities in Memphis
-            - Worked as an organizer to assist with charity selection, event planning, and technical administration
+            - Dedicated time and effort as an organizer to support charity selection, event planning, and technical administration, contributing to the success of community initiatives.
+            - Enthusiastically participated in an annual hackathon, applying technical expertise to create innovative solutions for nonprofit organizations, demonstrating a commitment to social impact.
 
 skills:
     title: Skills &amp; Proficiency

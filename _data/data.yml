@@ -46,10 +46,13 @@ experiences:
       time: August 2021 - September 2023
       company: Strata Decision Technology
       details: |
-          - Maintained pipelines for processing 835 remit and 837 submit medical claims data for use in the Stratasan data visualization application
-          - Developed a data export pipeline for providing raw data output from the above process for direct download by clients
-          - Performed monthly data processing tasks
-          - TECHNICAL ENVIRONMENT: Python, Snowflake, Redshift, DBT, Luigi
+          Designed, developed, and maintained scalable and efficient data pipelines to move data from various sources to data warehouses. Created and maintained data models and schemas to support business analytics and reporting needs. Optimized ETL processes to transform raw data into a usable format for analysis. Ensured execution of monthly data processing tasks.
+          Pioneered development of a data export pipeline, providing clients with direct access to raw data.
+          - Managed ETL pipelines to process vast amounts of 835 remit and 837 submit medical claims data (10B rows).
+          - Leveraged proficiency in Python, Snowflake, AWS, ECS, Redshift, DBT, Luigi, and Dagster.
+          - Developed a new data pipeline to fulfill client requests for raw data ingestion, creating a separate branch off the main pipeline to export data in parquet format; collaborated with the DevOps team to securely store the data in an S3 location.
+          - Led transformation of a fragmented reference data landscape by migrating data from various formats and locations into a unified and easily accessible data lake, leveraging Dagster, and designing data pipelines to extract and deposit data into an AWS Athena-ready data lake on AWS S3.
+          - Managed and monitored monthly data processing tasks, promptly resolving errors, and collaborating with data scientists when necessary, ensuring on-time, error-free data delivery to customers.
     - role: Software Engineer
       class: cbt
       time: November 2018 - August 2021

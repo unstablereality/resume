@@ -25,12 +25,12 @@ sidebar:
 
       - item: Pets
 
-      - item: General Nerdery
-
 career-profile:
     title: Career Profile
     summary: |
-      Analytical and tech-savvy professional with solid experience in data/software engineering, project management, and business applications development; optimizing complex data-driven systems. Proven history of success in managing the full life cycle of software development processes, which contained requirements data management, engineering, design, coding, testing, debugging, and maintenance. Skilled in creating data pipelines, managing data storage, transformation/cleaning, modeling, and implementation. Adept at directing technical projects from start to end, preparing and executing strategic plans and control structures for projects, and ensuring successful completion within time and budget. Expertise includes:
+      Analytical and tech-savvy professional with established experience in solution design, project management, and data/software engineering. Proven history of success in managing the full life cycle of software development processes. Adept at directing technical projects from start to end, preparing and executing strategic plans and control structures for projects, and ensuring successful completion within time and budget. 
+      
+      Expertise includes:
 
       Software Development Life Cycle (SDLC) / Engineering System Integration / ETL Processes Data Processing & Modeling / Software Design / Software & Web Maintenance / Relationship Building Quality Assurance & Testing / Troubleshooting & Issue Resolution / Continuous Process Improvement
 
@@ -42,6 +42,17 @@ education:
         3.83 GPA | Summa Cum Laude
 
 experiences:
+    - role: Solution Architect
+      class: alsac
+      time: February 2024 - August 2025
+      company: ALSAC / St. Jude
+      details: |
+          Led the design and implementation of IT solutions to improve organizational operations. Collaborated with stakeholders to
+          evaluate business needs and develop effective solutions, ensuring alignment with organizational goals.
+          - Oversaw the successful planning and implementation of an upgrade to the Control-M orchestration platform.
+          - Directed a migration of over 30 APIs to a new proxy platform to allow for increased security and reliability.
+          - Guided the implementation of an effort to ensure compliance with new state privacy laws in 2025.
+          - Developed a strategy for the rapid decommission of third party applications to ensure minimal impact to ongoing operations and revenue generation.
     - role: Data Engineer
       class: stratasan
       time: August 2021 - September 2023
